@@ -1,0 +1,2 @@
+pymew>=0.1.0
+imgui_bundle==1.93.0
